@@ -4,10 +4,6 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 
-//-----------------------------------------
-// USER SCHEMA: this is the general schema
-// for the Hera 'User' resources
-//-----------------------------------------
 var userSchema = new Schema({
     name: String,
     age: Number
