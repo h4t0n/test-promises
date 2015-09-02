@@ -3,6 +3,8 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
+// http://eddywashere.com/blog/switching-out-callbacks-with-promises-in-mongoose/
+// http://www.sitepoint.com/overview-javascript-promises/
 
 var userSchema = new Schema({
     name: String,
