@@ -1,0 +1,25 @@
+{
+  "name": "test-promises",
+  "version": "1.0.0",
+  "description": "test promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h4t0n/test-promises.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "tarquiniandreagm@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h4t0n/test-promises/issues"
+  },
+  "homepage": "https://github.com/h4t0n/test-promises#readme",
+  "dependencies": {
+    "mongoose": "^4.1.5"
+  }
+}
